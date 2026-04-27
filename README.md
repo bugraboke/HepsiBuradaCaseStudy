@@ -1,5 +1,5 @@
 # HepsiBurada Case Study
-- Bu çalışmada ürün seçiminden sepet ekranına kadar uçtan uca bir senaryo oluşturulmuştur.
+- Bu çalışmada Hepsiburada'da ürün seçiminden sepet ekranına kadar uçtan uca bir senaryo oluşturulmuştur.
 # Projeyi çalıştırmak
 - HepsiburadaTest.java dosyasındaki hepsiburadatest() methodu çalıştırılır. 
 #  Technologies used
